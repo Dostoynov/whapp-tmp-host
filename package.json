@@ -1,0 +1,14 @@
+{
+  "name": "whapp-tmp-host",
+  "version": "0.0.1",
+  "description": "texttothem.com bundled repo",
+  "scripts": {
+    "clean": "node cleanup.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "https://github.com/Dostoynov",
+  "license": "ISC",
+  "dependencies": {
+    "rimraf": "^5.0.5"
+  }
+}
